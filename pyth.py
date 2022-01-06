@@ -9,8 +9,6 @@ from docxtpl import DocxTemplate
 import jinja2
 
 
-
-
 def main():
 
     # Get the number of variables used in pdf from the user and pass it to function questions
